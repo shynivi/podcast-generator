@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator Action"
 author: "Nikola Milev"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
