@@ -5,7 +5,7 @@ runs:
   using: "docker"
   image: "Dockerfile"
 branding:
-  icon: "mic"
+  icon: "activity"
   color: "red"
 inputs:
   email:
